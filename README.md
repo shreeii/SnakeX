@@ -1,2 +1,2 @@
-# SnakeX
+
 SnakeX
